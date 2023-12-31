@@ -47,6 +47,6 @@ The use of ensemble techniques such as stacking, voting, bagging, and boosting h
 
 This project demonstrates the effectiveness of ensemble methods in refining classification accuracy and expanding the scope of income prediction models.
 
----
 
-Feel free to adjust or elaborate further based on the specific details and findings of your income prediction project!
+
+
